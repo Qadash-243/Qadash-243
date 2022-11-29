@@ -1,4 +1,4 @@
-### Hi there 👋
+### How to install wikimedia in Ubuntuserver22
 
 <!--
 **Qadash-243/Qadash-243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
